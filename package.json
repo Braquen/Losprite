@@ -1,0 +1,17 @@
+{
+  "name": "losprite",
+  "displayName": "Losprite",
+  "description": "A script giving access to Lospec's palette library",
+  "version": "0.1",
+  "author": { "name": "John Torian",
+              "url": "https://braquen.itch.io/" },
+  "contributors": [ ],
+  "publisher": "Braquen",
+  "license": "CC BY-NC-SA-4.0",
+  "categories": [ "Scripts" ],
+  "contributes": {
+    "scripts": [
+        { "path": "./my-script.lua" }
+    ]
+  }
+}
